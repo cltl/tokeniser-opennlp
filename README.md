@@ -6,7 +6,7 @@ Tokenizer and sentence splitter based on opennlp
 You will need to have opennlp installed on your machine and
 set some variables in the script `tokeniser_opennlp.py`. These two lines have
 to be changed to the path where open-nlp is installed and where the models
-have been store.
+have been store. You will need to have also the KafNafParserPy which can be found at http://github.com/cltl/KafNafParserPy
 
 ```shell
 ######### VARS ######
